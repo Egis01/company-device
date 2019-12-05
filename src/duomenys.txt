@@ -1,0 +1,5 @@
+Maxima;Ukmenrges g. 256, Vilnius;food;Varske,2.43,14,pusriebe varske-Duona,1.12,31,sviesi duona
+Tele2;Upes g. 23, Vilnius;technologies;Nokia,263.99,20,mobilus telefonas-iPad,899,7,plancete
+Moller;Laisves pr. 127, Vilnius;automobiles;Passat,45000,14,universalas-Arteon,69000,4,sedanas-Golf,36000,18,hecbekas
+Depo;Maksimiskiu g. 5 Vilnius;garden_tools;kastuvas,26.75,53,su rankena-laistytuvas,13.99,67,12L-sekatorius,45.01,10,plieninis
+Rimi;Zirmunu g. 64, Vilnius;food;sausainiai,2.79,32,imberiniai-pienas,0.89,20,pusriebis-kava,3.99,7,arabika
